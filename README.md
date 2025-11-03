@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.isdynamic.com/">
-    <img src="https://www.isdynamic.com/wp-content/uploads/2022/08/logo.svg](https://www.isdynamic.com/wp-content/uploads/2020/07/LOGO-ISDYNAMIC-99-icon-sait-home-2k.png)" alt="Isdynamic Logo" width="200">
+    <img src="https://www.isdynamic.com/wp-content/uploads/2020/07/LOGO-ISDYNAMIC-99-icon-sait-home-2k.png" alt="Isdynamic Logo" width="200">
   </a>
 </p>
 
